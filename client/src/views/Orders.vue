@@ -1,12 +1,18 @@
 <template>
-  <OrderInvoice />
+  <Layout>
+    <OrderInvoice />
+  </Layout>
 </template>
+
 <script>
+import Layout from '../components/layout/navigationLayout/Layout.vue';
 import OrderInvoice from '../components/orders/OrderInvoice.vue';
+
 export default {
-  name: 'Order',
+  name: 'Orders',
   components: {
     OrderInvoice,
+    Layout,
   },
 };
 </script>

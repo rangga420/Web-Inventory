@@ -10,7 +10,9 @@
       <!-- Menu: main ul -->
       <ul class="menu-list flex-grow-1 mt-3">
         <li>
-          <a class="m-link active" href="index.html"><i class="icofont-home fs-5"></i> <span>Dashboard</span></a>
+          <RouterLink to="/dashboard" class="m-link active" href="index.html"
+            ><i class="icofont-home fs-5"></i> <span>Dashboard</span></RouterLink
+          >
         </li>
         <li class="collapsed">
           <a class="m-link" data-bs-toggle="collapse" data-bs-target="#menu-product" href="#">
@@ -31,6 +33,9 @@
           <ul class="sub-menu collapse show" id="menu-order">
             <li>
               <RouterLink to="/orders/invoices" class="ms-link" href="order-invoices.html">Order Invoices</RouterLink>
+            </li>
+            <li>
+              <RouterLink to="/orders/invoices/details" class="ms-link">Order Details</RouterLink>
             </li>
           </ul>
         </li>

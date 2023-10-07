@@ -18,6 +18,11 @@ const router = createRouter({
       name: 'orders',
       component: () => import('../views/Orders.vue'),
     },
+    {
+      path: '/orders/invoices/details',
+      name: 'orders_invoices_details',
+      component: () => import('../views/OrdersInvoicesDetails.vue'),
+    },
   ],
 });
 
