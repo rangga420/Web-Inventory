@@ -29,7 +29,9 @@
           ></a>
           <!-- Menu: Sub menu ul -->
           <ul class="sub-menu collapse show" id="menu-order">
-            <li><a class="ms-link" href="order-invoices.html">Order Invoices</a></li>
+            <li>
+              <RouterLink to="/orders/invoices" class="ms-link" href="order-invoices.html">Order Invoices</RouterLink>
+            </li>
           </ul>
         </li>
       </ul>

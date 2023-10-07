@@ -29,10 +29,10 @@
 
 <script>
 import Navbar from '../components/Navbar.vue';
+import Sidebar from '../components/SideBar.vue';
 import RecentTransactions from '../components/dashboard/RecentTransactions.vue';
 import Summarys from '../components/dashboard/Summary.vue';
 import SalesData from '../components/dashboard/SalesData.vue';
-import Sidebar from '../components/SideBar.vue';
 export default {
   name: 'Dashboard',
   components: {
