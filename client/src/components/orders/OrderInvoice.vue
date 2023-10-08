@@ -38,10 +38,10 @@
                 <td>$212</td>
                 <td>Alexander007</td>
                 <td>
-                  <a class="btn btn-sm btn-white" href="invoices.html"><i class="icofont-print fs-5"></i></a>
-                  <a class="btn btn-sm btn-white" href="invoices.html"><i class="icofont-download fs-5"></i></a>
-                  <a class="btn btn-sm btn-white" href="invoices.html"><i class="icofont-send-mail fs-4"></i></a>
-                  <RouterLink to="/orders/invoices/details" class="btn btn-sm btn-white" href="invoices.html"
+                  <RouterLink to="/orders/invoices/params" class="btn btn-sm btn-white" href="invoices.html"
+                    ><i class="icofont-print fs-5"></i
+                  ></RouterLink>
+                  <RouterLink to="/orders/details/params" class="btn btn-sm btn-white" href="invoices.html"
                     ><i class="icofont-ui-note"></i
                   ></RouterLink>
                 </td>
@@ -59,10 +59,10 @@
                 <td>$612</td>
                 <td>Joan123</td>
                 <td>
-                  <a class="btn btn-sm btn-white" href="invoices.html"><i class="icofont-print fs-5"></i></a>
-                  <a class="btn btn-sm btn-white" href="invoices.html"><i class="icofont-download fs-5"></i></a>
-                  <a class="btn btn-sm btn-white" href="invoices.html"><i class="icofont-send-mail fs-4"></i></a>
-                  <RouterLink to="/orders/invoices/details" class="btn btn-sm btn-white" href="invoices.html"
+                  <RouterLink to="/orders/invoices/params" class="btn btn-sm btn-white" href="invoices.html"
+                    ><i class="icofont-print fs-5"></i
+                  ></RouterLink>
+                  <RouterLink to="/orders/details/params" class="btn btn-sm btn-white" href="invoices.html"
                     ><i class="icofont-ui-note"></i
                   ></RouterLink>
                 </td>
@@ -80,10 +80,10 @@
                 <td>$612</td>
                 <td>Peterjio</td>
                 <td>
-                  <a class="btn btn-sm btn-white" href="invoices.html"><i class="icofont-print fs-5"></i></a>
-                  <a class="btn btn-sm btn-white" href="invoices.html"><i class="icofont-download fs-5"></i></a>
-                  <a class="btn btn-sm btn-white" href="invoices.html"><i class="icofont-send-mail fs-4"></i></a>
-                  <RouterLink to="/orders/invoices/details" class="btn btn-sm btn-white" href="invoices.html"
+                  <RouterLink to="/orders/invoices/params" class="btn btn-sm btn-white" href="invoices.html"
+                    ><i class="icofont-print fs-5"></i
+                  ></RouterLink>
+                  <RouterLink to="/orders/details/params" class="btn btn-sm btn-white" href="invoices.html"
                     ><i class="icofont-ui-note"></i
                   ></RouterLink>
                 </td>
@@ -101,10 +101,10 @@
                 <td>$112</td>
                 <td>Zoesmart</td>
                 <td>
-                  <a class="btn btn-sm btn-white" href="invoices.html"><i class="icofont-print fs-5"></i></a>
-                  <a class="btn btn-sm btn-white" href="invoices.html"><i class="icofont-download fs-5"></i></a>
-                  <a class="btn btn-sm btn-white" href="invoices.html"><i class="icofont-send-mail fs-4"></i></a>
-                  <RouterLink to="/orders/invoices/details" class="btn btn-sm btn-white" href="invoices.html"
+                  <RouterLink to="/orders/invoices/params" class="btn btn-sm btn-white" href="invoices.html"
+                    ><i class="icofont-print fs-5"></i
+                  ></RouterLink>
+                  <RouterLink to="/orders/details/params" class="btn btn-sm btn-white" href="invoices.html"
                     ><i class="icofont-ui-note"></i
                   ></RouterLink>
                 </td>
@@ -122,10 +122,10 @@
                 <td>$300</td>
                 <td>Grace786</td>
                 <td>
-                  <a class="btn btn-sm btn-white" href="invoices.html"><i class="icofont-print fs-5"></i></a>
-                  <a class="btn btn-sm btn-white" href="invoices.html"><i class="icofont-download fs-5"></i></a>
-                  <a class="btn btn-sm btn-white" href="invoices.html"><i class="icofont-send-mail fs-4"></i></a>
-                  <RouterLink to="/orders/invoices/details" class="btn btn-sm btn-white" href="invoices.html"
+                  <RouterLink to="/orders/invoices/params" class="btn btn-sm btn-white" href="invoices.html"
+                    ><i class="icofont-print fs-5"></i
+                  ></RouterLink>
+                  <RouterLink to="/orders/details/params" class="btn btn-sm btn-white" href="invoices.html"
                     ><i class="icofont-ui-note"></i
                   ></RouterLink>
                 </td>
@@ -143,10 +143,10 @@
                 <td>$330</td>
                 <td>Dianalove</td>
                 <td>
-                  <a class="btn btn-sm btn-white" href="invoices.html"><i class="icofont-print fs-5"></i></a>
-                  <a class="btn btn-sm btn-white" href="invoices.html"><i class="icofont-download fs-5"></i></a>
-                  <a class="btn btn-sm btn-white" href="invoices.html"><i class="icofont-send-mail fs-4"></i></a>
-                  <RouterLink to="/orders/invoices/details" class="btn btn-sm btn-white" href="invoices.html"
+                  <RouterLink to="/orders/invoices/params" class="btn btn-sm btn-white" href="invoices.html"
+                    ><i class="icofont-print fs-5"></i
+                  ></RouterLink>
+                  <RouterLink to="/orders/details/params" class="btn btn-sm btn-white" href="invoices.html"
                     ><i class="icofont-ui-note"></i
                   ></RouterLink>
                 </td>
@@ -164,10 +164,10 @@
                 <td>$370</td>
                 <td>Sarahone</td>
                 <td>
-                  <a class="btn btn-sm btn-white" href="invoices.html"><i class="icofont-print fs-5"></i></a>
-                  <a class="btn btn-sm btn-white" href="invoices.html"><i class="icofont-download fs-5"></i></a>
-                  <a class="btn btn-sm btn-white" href="invoices.html"><i class="icofont-send-mail fs-4"></i></a>
-                  <RouterLink to="/orders/invoices/details" class="btn btn-sm btn-white" href="invoices.html"
+                  <RouterLink to="/orders/invoices/params" class="btn btn-sm btn-white" href="invoices.html"
+                    ><i class="icofont-print fs-5"></i
+                  ></RouterLink>
+                  <RouterLink to="/orders/details/params" class="btn btn-sm btn-white" href="invoices.html"
                     ><i class="icofont-ui-note"></i
                   ></RouterLink>
                 </td>
@@ -185,10 +185,10 @@
                 <td>$170</td>
                 <td>Julia42</td>
                 <td>
-                  <a class="btn btn-sm btn-white" href="invoices.html"><i class="icofont-print fs-5"></i></a>
-                  <a class="btn btn-sm btn-white" href="invoices.html"><i class="icofont-download fs-5"></i></a>
-                  <a class="btn btn-sm btn-white" href="invoices.html"><i class="icofont-send-mail fs-4"></i></a>
-                  <RouterLink to="/orders/invoices/details" class="btn btn-sm btn-white" href="invoices.html"
+                  <RouterLink to="/orders/invoices/params" class="btn btn-sm btn-white" href="invoices.html"
+                    ><i class="icofont-print fs-5"></i
+                  ></RouterLink>
+                  <RouterLink to="/orders/details/params" class="btn btn-sm btn-white" href="invoices.html"
                     ><i class="icofont-ui-note"></i
                   ></RouterLink>
                 </td>

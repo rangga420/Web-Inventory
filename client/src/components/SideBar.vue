@@ -34,10 +34,12 @@
           <!-- Menu: Sub menu ul -->
           <ul class="sub-menu collapse show" id="menu-order">
             <li>
-              <RouterLink to="/orders/invoices" class="ms-link" href="order-invoices.html">Order Invoices</RouterLink>
+              <RouterLink to="/orders/list" class="ms-link" href="order-invoices.html">Order List</RouterLink>
             </li>
+          </ul>
+          <ul class="sub-menu collapse show" id="menu-order">
             <li>
-              <RouterLink to="/orders/invoices/details" class="ms-link">Order Details</RouterLink>
+              <RouterLink to="/orders/invoices" class="ms-link" href="order-invoices.html">Order Invoices</RouterLink>
             </li>
           </ul>
         </li>
@@ -49,8 +51,12 @@
           ></a>
           <!-- Menu: Sub menu ul -->
           <ul class="sub-menu collapse" id="customers-info">
-            <li><a class="ms-link" href="customers.html">Staff List</a></li>
-            <li><a class="ms-link" href="customer-detail.html">Staff Details</a></li>
+            <li><RouterLink to="/staff/list" class="ms-link" href="customers.html">Staff List</RouterLink></li>
+            <li>
+              <RouterLink to="/staff/detail/params" class="ms-link" href="customer-detail.html"
+                >Staff Details</RouterLink
+              >
+            </li>
           </ul>
         </li>
       </ul>
