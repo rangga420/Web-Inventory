@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <Summarys />
+    <!-- <Summarys /> -->
     <SalesData />
     <RecentTransactions />
   </Layout>

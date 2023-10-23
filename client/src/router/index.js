@@ -7,6 +7,10 @@ import Invoices from '../components/orders/Invoice.vue';
 import OrderList from '../components/orders/List.vue';
 import StaffList from '../components/staff/List.vue';
 import StaffDetail from '../components/Staff/Detail.vue';
+import ProductsPage from '../views/ProductsPage.vue';
+import ProductGridView from '../components/products/ProductGridView.vue';
+import ProductListView from '../components/products/ProductListView.vue';
+import ProductHeaderIcons from '../components/products/ProductHeaderIcons.vue';
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
@@ -57,6 +61,19 @@ const router = createRouter({
         {
           path: 'detail/params',
           component: StaffDetail,
+        },
+      ],
+    },
+
+    {
+      path: '/products',
+      name: 'products',
+      component: ProductsPage,
+      children: [
+        {
+          path: 'list',
+          // component: ProductGridView,
+          component: ProductHeaderIcons,
         },
       ],
     },

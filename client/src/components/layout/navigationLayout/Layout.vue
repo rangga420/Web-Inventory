@@ -16,7 +16,7 @@
 
 <script>
 import Navbar from '../../Navbar.vue';
-import Sidebar from '../../Sidebar.vue';
+import Sidebar from '../../SideBar.vue';
 export default {
   name: 'LayoutNavigation',
   components: { Navbar, Sidebar },

@@ -22,7 +22,7 @@
           ></a>
           <!-- Menu: Sub menu ul -->
           <ul class="sub-menu collapse" id="menu-product">
-            <li><a class="ms-link" href="product-grid.html">Product Grid</a></li>
+            <li><RouterLink to="/products/list" class="ms-link">Product List</RouterLink></li>
           </ul>
         </li>
 

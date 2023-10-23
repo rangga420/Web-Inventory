@@ -52,17 +52,12 @@
                 <td>18</td>
                 <td>
                   <div class="btn-group" role="group" aria-label="Basic outlined example">
-                    <button
-                      type="button"
-                      class="btn btn-outline-secondary"
-                      data-bs-toggle="modal"
-                      data-bs-target="#expedit"
-                    >
-                      <i class="icofont-edit text-success"></i>
-                    </button>
-                    <button type="button" class="btn btn-outline-secondary deleterow">
-                      <i class="icofont-ui-delete text-danger"></i>
-                    </button>
+                    <RouterLink to="/staff/detail/params" class="btn btn-sm btn-white" href="invoices.html"
+                      ><i class="icofont-edit text-success fs-5"></i
+                    ></RouterLink>
+                    <RouterLink to="/staff/detail/params" class="btn btn-sm btn-white" href="invoices.html"
+                      ><i class="icofont-ui-delete text-danger fs-5"></i
+                    ></RouterLink>
                   </div>
                 </td>
               </tr>
@@ -81,17 +76,12 @@
                 <td>4568</td>
                 <td>
                   <div class="btn-group" role="group" aria-label="Basic outlined example">
-                    <button
-                      type="button"
-                      class="btn btn-outline-secondary"
-                      data-bs-toggle="modal"
-                      data-bs-target="#expedit"
-                    >
-                      <i class="icofont-edit text-success"></i>
-                    </button>
-                    <button type="button" class="btn btn-outline-secondary deleterow">
-                      <i class="icofont-ui-delete text-danger"></i>
-                    </button>
+                    <RouterLink to="/staff/detail/params" class="btn btn-sm btn-white" href="invoices.html"
+                      ><i class="icofont-edit text-success fs-5"></i
+                    ></RouterLink>
+                    <RouterLink to="/staff/detail/params" class="btn btn-sm btn-white" href="invoices.html"
+                      ><i class="icofont-ui-delete text-danger fs-5"></i
+                    ></RouterLink>
                   </div>
                 </td>
               </tr>
@@ -110,17 +100,12 @@
                 <td>05</td>
                 <td>
                   <div class="btn-group" role="group" aria-label="Basic outlined example">
-                    <button
-                      type="button"
-                      class="btn btn-outline-secondary"
-                      data-bs-toggle="modal"
-                      data-bs-target="#expedit"
-                    >
-                      <i class="icofont-edit text-success"></i>
-                    </button>
-                    <button type="button" class="btn btn-outline-secondary deleterow">
-                      <i class="icofont-ui-delete text-danger"></i>
-                    </button>
+                    <RouterLink to="/staff/detail/params" class="btn btn-sm btn-white" href="invoices.html"
+                      ><i class="icofont-edit text-success fs-5"></i
+                    ></RouterLink>
+                    <RouterLink to="/staff/detail/params" class="btn btn-sm btn-white" href="invoices.html"
+                      ><i class="icofont-ui-delete text-danger fs-5"></i
+                    ></RouterLink>
                   </div>
                 </td>
               </tr>
@@ -139,17 +124,12 @@
                 <td>14</td>
                 <td>
                   <div class="btn-group" role="group" aria-label="Basic outlined example">
-                    <button
-                      type="button"
-                      class="btn btn-outline-secondary"
-                      data-bs-toggle="modal"
-                      data-bs-target="#expedit"
-                    >
-                      <i class="icofont-edit text-success"></i>
-                    </button>
-                    <button type="button" class="btn btn-outline-secondary deleterow">
-                      <i class="icofont-ui-delete text-danger"></i>
-                    </button>
+                    <RouterLink to="/staff/detail/params" class="btn btn-sm btn-white" href="invoices.html"
+                      ><i class="icofont-edit text-success fs-5"></i
+                    ></RouterLink>
+                    <RouterLink to="/staff/detail/params" class="btn btn-sm btn-white" href="invoices.html"
+                      ><i class="icofont-ui-delete text-danger fs-5"></i
+                    ></RouterLink>
                   </div>
                 </td>
               </tr>
@@ -168,17 +148,12 @@
                 <td>03</td>
                 <td>
                   <div class="btn-group" role="group" aria-label="Basic outlined example">
-                    <button
-                      type="button"
-                      class="btn btn-outline-secondary"
-                      data-bs-toggle="modal"
-                      data-bs-target="#expedit"
-                    >
-                      <i class="icofont-edit text-success"></i>
-                    </button>
-                    <button type="button" class="btn btn-outline-secondary deleterow">
-                      <i class="icofont-ui-delete text-danger"></i>
-                    </button>
+                    <RouterLink to="/staff/detail/params" class="btn btn-sm btn-white" href="invoices.html"
+                      ><i class="icofont-edit text-success fs-5"></i
+                    ></RouterLink>
+                    <RouterLink to="/staff/detail/params" class="btn btn-sm btn-white" href="invoices.html"
+                      ><i class="icofont-ui-delete text-danger fs-5"></i
+                    ></RouterLink>
                   </div>
                 </td>
               </tr>
@@ -197,17 +172,12 @@
                 <td>02</td>
                 <td>
                   <div class="btn-group" role="group" aria-label="Basic outlined example">
-                    <button
-                      type="button"
-                      class="btn btn-outline-secondary"
-                      data-bs-toggle="modal"
-                      data-bs-target="#expedit"
-                    >
-                      <i class="icofont-edit text-success"></i>
-                    </button>
-                    <button type="button" class="btn btn-outline-secondary deleterow">
-                      <i class="icofont-ui-delete text-danger"></i>
-                    </button>
+                    <RouterLink to="/staff/detail/params" class="btn btn-sm btn-white" href="invoices.html"
+                      ><i class="icofont-edit text-success fs-5"></i
+                    ></RouterLink>
+                    <RouterLink to="/staff/detail/params" class="btn btn-sm btn-white" href="invoices.html"
+                      ><i class="icofont-ui-delete text-danger fs-5"></i
+                    ></RouterLink>
                   </div>
                 </td>
               </tr>
